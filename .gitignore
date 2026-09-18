@@ -1,0 +1,47 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user
+*.Rproj
+*.Rcheck
+
+# Compiled extensions
+*.o
+*.so
+*.dll
+*.exe
+
+# Vignettes
+inst/doc
+
+# Data files (keep packaged data)
+*.rds
+*.Rda
+*.rda
+!data/*.rda
+!data/*.Rda
+!data/*.rds
+
+# Large files
+*.RData
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.h5ad
+*.mtx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Python (if used in notebooks)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
