@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shen"
+    given-names: "Kai-Cheng"
+    affiliation: "OuLab, BioMedical Institute"
+  - family-names: "Ou"
+    given-names: "[PI Full Name]"
+    affiliation: "OuLab, BioMedical Institute"
+title: "MelImmuneOmics: An R package for melanoma immune microenvironment analysis"
+version: 0.1.0
+date-released: 2026-09-18
+license: MIT
+repository-code: "https://github.com/OuLab-BioMed/MelImmuneOmics"
+preferred-citation:
+  type: article
+  title: "[Manuscript Title]"
+  authors:
+    - family-names: "Shen"
+      given-names: "Kai-Cheng"
+    - family-names: "Ou"
+      given-names: "[PI Full Name]"
+  year: 2026
+  journal: "[Journal Name]"
+  doi: "[DOI pending]"
